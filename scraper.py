@@ -125,7 +125,7 @@ async def _extract_cartoon_of_the_day_from_homepage(page) -> dict[str, Optional[
 
 async def run(output_path: Path) -> None:
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         context = await browser.new_context(viewport={"width": 1280, "height": 720})
         page = await context.new_page()
 
