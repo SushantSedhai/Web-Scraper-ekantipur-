@@ -74,8 +74,13 @@ ekantipur-scraper/
 └── output.json # Generated output
 
 
+
 Prompt 2 
 Use appropriate selectors (prefer data attributes, then semantic HTML, avoid fragile
 XPaths)
 Add meaningful comments explaining your approach
 Output must be valid JSON saved to output.json
+
+
+Prompt 3
+can you push all the files to my github repo
