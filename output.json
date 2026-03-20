@@ -1,0 +1,39 @@
+{
+  "entertainment_news": [
+    {
+      "title": "हुम्लाको लिमीमा विराज र खुशी",
+      "image_url": "https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/asdfsdfsdf-1932026105857-watermarked.png",
+      "category": "मनो रञ्जन",
+      "author": null
+    },
+    {
+      "title": "'एक मुठी बादल'को टिजरमा आँचल",
+      "image_url": "https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/sdfsdfsdfsdf-1932026121457-watermarked.png",
+      "category": "मनो रञ्जन",
+      "author": null
+    },
+    {
+      "title": "नोरा फतेहीको नृत्य रहेको गीत 'सर्के चुनर तेरी सर्के' विवादमा",
+      "image_url": "https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/nora-fatehi-1932026114924-watermarked.jpg",
+      "category": "मनो रञ्जन",
+      "author": null
+    },
+    {
+      "title": "भारतीय र्‍यापर बादशाहको गीत 'तत्तेरी' विवादमा, राष्ट्रिय महिला आयोगले काट्यो पत्र",
+      "image_url": "https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/badhshaha-1932026084437-watermarked.jpg",
+      "category": "मनो रञ्जन",
+      "author": null
+    },
+    {
+      "title": "गीतका गहिराइ र अर्थ खोज्दै सुरज",
+      "image_url": "https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/miscellaneous/surajsubedi20260315b87a6164-1832026043429-watermarked.jpg",
+      "category": "मनो रञ्जन",
+      "author": null
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "कान्तिपुर दैनिकमा आज प्रकाशित अविनको कार्टुन",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-821203-copy-1732026024923-1000x0.jpg&w=601&h=0",
+    "author": "अविन"
+  }
+}
